@@ -4,21 +4,21 @@ body{
 }
 header{
 	margin: auto;
-	background-color: white;
-	border-radius: 20px;
+	background-color: rgb(213, 236, 183);
+	border-radius: 14px;
 }
 .logo{
 	font-size: large;
-	font-size: 30px;
+	font-size: 20px;
 	text-decoration: none;
-	color: red;
+	color: rgb(76, 194, 76);
 }
 main{
 	display: flex;
 	flex: auto;
 	flex-direction: row;
-	background-color: green;
-	border-radius: 30px;
+	background-color: rgb(32, 83, 32);
+	border-radius: 25px;
 }
 article{
 	flex: 2;
@@ -27,6 +27,6 @@ article{
 aside{
 	flex: 1;
 	overflow-y: auto;
-	background-color: bisque;
-	border-radius: 25px;
+	background-color: rgb(125, 224, 219);
+	border-radius: 18px;
 }
