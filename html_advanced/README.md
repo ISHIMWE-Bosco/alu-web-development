@@ -13,6 +13,7 @@ This HTML project is a digital journey centered around my learning of web develo
   - Prioritize web accessibility (WCAG).
   - Test and debug for cross-browser compatibility.
   # Here is my Platform 
- ![image](https://github.com/ISHIMWE-Bosco/alu-web-development/assets/127385513/9131065f-6756-43a7-b9e6-bc383a781912)
+![image](https://github.com/ISHIMWE-Bosco/alu-web-development/assets/127385513/1f0bdb61-796c-479d-bc99-bf1c1ace0737)
+
 
 
