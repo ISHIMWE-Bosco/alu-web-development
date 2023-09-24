@@ -1,6 +1,6 @@
-#MY HTML PROJECT INTRODUCTION
+# MY HTML PROJECT INTRODUCTION
 This HTML project is a digital journey centered around my learning of web development. It involves crafting web pages by structuring content with HTML tags, creating links, and incorporating multimedia elements. All HTML projects form the foundation of websites, enabling the presentation of information and user interaction on the internet.
-#WHAT TO LEARN FROM THIS?
+# WHAT TO LEARN FROM THIS?
   Define web page structure using HTML elements.
   Add text content with tags like <p> and <h1>.
   Create clickable links using <a> tags.
