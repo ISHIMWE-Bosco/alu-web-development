@@ -13,5 +13,5 @@ This HTML project is a digital journey centered around my learning of web develo
   - Prioritize web accessibility (WCAG).
   - Test and debug for cross-browser compatibility.
   # Here is my Platform 
-  
+  https://www.figma.com/file/QOpXxLv1HglfyMjFKy8gNE/Homepage-(Copy)?type=design&node-id=0%3A1&mode=design&t=P1O42agGFeNsbbN6-1 
 
