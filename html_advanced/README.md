@@ -2,7 +2,7 @@
 This HTML project is a digital journey centered around my learning of web development. It involves crafting web pages by structuring content with HTML tags, creating links, and incorporating multimedia elements. All HTML projects form the foundation of websites, enabling the presentation of information and user interaction on the internet.
 # WHAT TO LEARN FROM THIS?
   - Define web page structure using HTML elements.
-  - Add text content with tags like <p> and <h1>.
+  - Add text content with tags like 
   - Create clickable links using <a> tags.
   - Embed media with <img>, <video>, and <audio> tags.
   - Implement user input forms with <form> and <input>.
